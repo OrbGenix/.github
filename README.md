@@ -38,8 +38,3 @@ We focus on delivering exceptional service, ensuring each application meets the 
 📩 **Free Discovery Call:** Reach out to discuss how we can bring your vision to life.
 🌐 **Portfolio:** \[[Conpmay Website](https://orbgenix.com/)]
 
----
-
-### ✨ “At OrbGenix, we don’t just build software — we build growth.”
-
----
