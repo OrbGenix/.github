@@ -15,54 +15,6 @@ Imagine a partner who genuinely understands your vision and commits to making it
 * Mobile Development
 * AI & ML Development
 * AI Chatbot Development
-* Cloud & DevOps Services
-
----
-
-## ✅ Our Expertise
-
-### 🌐 Front-End Development
-
-* **Languages:** HTML, CSS, JavaScript
-* **Frameworks & Libraries:** ReactJS, NextJS
-* **Styling:** Tailwind CSS, Material UI
-
-### ⚙️ Back-End Development
-
-* **Frameworks:** Django, Django REST Framework (DRF), Node.js, Express.js
-* **APIs:** RESTful APIs, GraphQL
-
-### 🗄️ Databases
-
-* **Relational:** PostgreSQL, MySQL, SQLite
-* **NoSQL:** MongoDB, Redis
-
-### ☁️ Cloud & Infrastructure
-
-* **Cloud Services:** AWS, DigitalOcean, Cloudinary
-* **CI/CD:** GitHub Actions, CircleCI, Jenkins, Travis CI
-
-### 🤖 Generative AI & Machine Learning
-
-* **Models:** ChatGPT, GPT-3.5, GPT-4
-* **Frameworks:** LangChain, LLMs
-
-### 🧪 API Testing & Documentation
-
-* **Testing:** Jest (JavaScript/TypeScript), Pytest (Python)
-* **Tools:** Postman, Swagger
-
-### 📡 Real-Time Communication
-
-* **Technologies:** Socket.io, Django Channels, WebSocket
-
-### 📋 Project Management & Collaboration
-
-* **Tools:** Jira, Slack, Trello, GitHub, GitLab, Bitbucket
-
-### 📝 Development Methodologies
-
-* **Process:** Agile (Scrum, Kanban)
 
 ---
 
