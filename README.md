@@ -13,7 +13,6 @@ Imagine a partner who genuinely understands your vision and commits to making it
 * SaaS Solutions
 * Web Development
 * Mobile Development
-* UI/UX Design
 * AI & ML Development
 * AI Chatbot Development
 * Cloud & DevOps Services
